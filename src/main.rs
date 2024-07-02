@@ -1,6 +1,6 @@
 use rand::{distributions::Alphanumeric, Rng};
 
-const NUMBER: u128 = 42;
+const NUMBER: u128 = 50;
 
 fn fib(n: u128) -> u128 {
     if n <= 1 {
